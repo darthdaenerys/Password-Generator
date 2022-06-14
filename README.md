@@ -18,5 +18,9 @@ But, it is not the same case with computers. Computers can generate random and s
 
 ## Conclusion
 
-We can add as many as we want. But, make sure that the resultant password is strong enough.
+We can add as many characters as we want. But, make sure that the resultant password is strong enough.
 Generate the passwords from the code and use them for your next online account!
+
+## Tools
+- Visual Studio Code
+- Python v3.9.7
